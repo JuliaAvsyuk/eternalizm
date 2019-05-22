@@ -1,0 +1,14 @@
+#blockquote {
+    background: none repeat scroll 0 0 padding-box rgba(255, 255, 255, 0.1);
+    border-left: 5px solid #6d0c80;
+    box-shadow: 0 0 20px #222222;
+    color: black;
+    font-family: arial;
+    font-size: 16px;
+    font-style: italic;
+    line-height: 1.45;
+    outline: 0 none;
+    padding: 10px 15px;
+    text-align: center;
+    width: 450px;
+}
